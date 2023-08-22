@@ -10,7 +10,7 @@
 <p align="center">Atualmente trabalho com:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,wordpress,php,docker" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,wordpress,docker" />
   </a>
 </p>
 
